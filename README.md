@@ -82,12 +82,12 @@
 
 <div dir='rtl'>
   
-شما می توانید از طریق [Nuget](https://www.nuget.org/packages/Chaboksms.RestClient/) نیز وب سرویس چابک اس ام اس را به پروزه خود اضافه نمایید :
+شما می توانید از طریق [Nuget](https://www.nuget.org/packages/Melipayamak.RestClient/) نیز وب سرویس چابک اس ام اس را به پروزه خود اضافه نمایید :
   
 </div>
 
 ```
-Install-Package Chaboksms.RestClient -Version 1.0.0
+Install-Package Melipayamak.RestClient -Version 1.0.0
 ```
 
 
